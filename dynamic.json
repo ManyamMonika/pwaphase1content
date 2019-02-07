@@ -1,0 +1,42 @@
+{
+	"profile":{
+		"img":"images/krishna.jpg",
+		"name":"manu",
+		"roll":"1236",
+		"institute":"pragati",
+		"place":"kkd"
+	},
+	"career":{
+		"info":"to get placed in mnc company so that i can explore my ideas"
+	},
+	"education":[
+		{
+			"s":"1",
+			"degree":"b.tech",
+			"institute":"pragati",
+			"yearofpassing":"2021"
+        },
+        {
+			"s":"2",
+			"degree":"inter",
+			"institute":"sri chaitanya",
+			"yearofpassing":"2017"
+        },
+        {
+			"s":"4",
+			"degree":"ssc",
+			"institute":"dr.kkr.gowtam concept school",
+			"yearofpassing":"2016"
+        }
+      ],
+	  "languages":[
+	    {
+			"lang":"english"
+		},
+		{
+			"lang":"hindi"
+
+		}
+	]
+
+}

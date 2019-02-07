@@ -1,0 +1,25 @@
+body{
+	background: aqua;
+}
+#maindiv{
+	background: purple;
+	display:flex;
+	justify-content: space-around;
+	margin: 10%;
+	border-radius: 6%;
+}
+.subdiv{
+	background:bisque;
+	margin: 3%;
+	border-radius: 5%;
+	text-align: center;
+	box-shadow: 4px 4px 4px 4px;
+	width:20%;
+}
+img{
+	margin: 3%;
+	border-radius: 5%;
+	height:45%;
+	width: 40%;
+}
+}
